@@ -1,0 +1,3 @@
+service : {
+  getApiKey: () -> (text) query;
+}
